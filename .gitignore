@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Airflow
+logs/
+airflow.cfg
+airflow.db
+
+# Project Specific
+restaurant_csv/*.parquet
+destination/
+.DS_Store
