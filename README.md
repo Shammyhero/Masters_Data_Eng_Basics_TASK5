@@ -35,3 +35,8 @@ The pipeline performs the following steps in order:
 *   **Docker:** Handles the environment and services (Postgres, Redis, Airflow).
 *   **Pandas:** Used for data manipulation and merging.
 *   **PyGeohash:** Used to generate geohashes from coordinates.
+
+## Workflow overview:
+
+<img width="1062" height="649" alt="Screenshot 2026-01-12 at 21 24 43" src="https://github.com/user-attachments/assets/a79a0c40-37c3-4248-91f6-cff67ce2a043" />
+
